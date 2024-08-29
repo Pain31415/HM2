@@ -1,0 +1,17 @@
+.color-block {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+.bg-orange { background-color: orange; }
+.bg-red { background-color: red; }
+.text {
+    margin-top: 20px;
+}
+.color-palette div {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    cursor: pointer;
+}
